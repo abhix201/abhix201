@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Gupta</h1>
+
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix201&theme=react-dark" width="100%">
+
+
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
