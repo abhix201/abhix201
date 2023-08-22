@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Gupta</h1>
 
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/abhix201/abhix201/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhix201&label=Profile%20views&color=0e75b6&style=flat" alt="abhix201" /> </p>
 
 
