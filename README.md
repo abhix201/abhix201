@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Gupta</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhix201&label=Profile%20views&color=0e75b6&style=flat" alt="abhix201" /> </p>
+
+
 - 👋 Hello there! I'm Abhijeet Gupta, a passionate competitive programmer with a keen interest in cloud and .NET technologies.
 
 - 💡 With a knack for problem-solving and a competitive edge, I thrive in the world of coding challenges. Whether it's algorithmic puzzles or complex coding competitions, I love the thrill of cracking the code and finding elegant solutions.
@@ -14,7 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhijeetgupta0120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeetgupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhijeetgupta0120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeetgupta0120" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhijeet_x201" target="blank"><img align="center" src="https://img.icons8.com/color/144/000000/codechef.png" alt="abhijeet_x201" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhix201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhix201" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhix201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhix201" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
