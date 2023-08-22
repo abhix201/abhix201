@@ -39,7 +39,7 @@
 
 <!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
 <p align="center">
-<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a>
+<a href="https://abhix201.wrapped.run"><b>My GitHub Wrapped</b></a>
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
