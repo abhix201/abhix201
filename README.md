@@ -1,79 +1,89 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Gupta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhix201&label=Profile%20views&color=0e75b6&style=flat" alt="abhix201" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhijeet+Gupta;Competitive+Programmer;Cloud+%26+.NET+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=abhix201&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abhix201" />
+</div>
 
-- 👋 Hello there! I'm Abhijeet Gupta, a passionate competitive programmer with a keen interest in cloud and .NET technologies.
+## 👨‍💻 About Me
 
-- 💡 With a knack for problem-solving and a competitive edge, I thrive in the world of coding challenges. Whether it's algorithmic puzzles or complex coding competitions, I love the thrill of cracking the code and finding elegant solutions.
+```typescript
+const abhijeet = {
+  location: "India",
+  specialization: ["Competitive Programming", "Cloud Technologies", ".NET"],
+  interests: ["Algorithmic Puzzles", "Cloud Architecture", "Web Development"],
+  technologies: {
+    languages: ["C++", "C#", "JavaScript", "Python"],
+    web: ["HTML", "CSS", "Node.js", "Bootstrap"],
+    database: ["MongoDB", "MySQL"],
+    devOps: ["Git", "Jenkins"],
+    cloud: ["Azure", "AWS"],
+    currentlyLearning: ["React", "Next.js", "Cloud Architecture"]
+  },
+  contact: "abhijeetgupta0120@gmail.com"
+};
+```
 
-- ☁️ My curiosity extends beyond algorithms and data structures to the cloud. I'm excited by the limitless potential that cloud technologies offer, and I'm eager to explore how they can reshape our digital landscape. From infrastructure as code to scalable applications, I'm ready to dive into the possibilities.
+- 💡 I thrive in the world of coding challenges and elegant problem-solving
+- ☁️ Exploring cloud technologies and their potential to reshape our digital landscape
+- 💻 Continuously advancing my skills in the .NET ecosystem
+- 📈 Open to connect and collaborate on competitive programming, cloud, and .NET projects
+- 🚀 Check out my [GitHub Wrapped](https://abhix201.wrapped.run)
 
-- 💻 My journey has also led me to delve into the dynamic realm of .NET technologies. The versatility and power of the .NET ecosystem never cease to amaze me. From crafting efficient web applications to robust software solutions, I'm continuously honing my skills in this exciting domain.
-
-- 📈 Let's connect and share insights on competitive programming, cloud innovations, and .NET advancements. Whether it's discussing algorithms, exploring cloud architecture, or brainstorming .NET projects, I'm always up for a stimulating conversation.
-
-- 📫 How to reach me **abhijeetgupta0120@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abhijeetgupta0120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeetgupta0120" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhijeet_x201" target="blank"><img align="center" src="https://img.icons8.com/color/144/000000/codechef.png" alt="abhijeet_x201" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhix201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhix201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhix201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhix201" height="30" width="40" /></a>
+<details>
+<summary><b>🛠️ Languages and Tools</b></summary>
+<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,dotnet,js,html,css,python,git,bootstrap,mongodb,mysql,nodejs,vscode,azure,github" />
 </p>
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+<details>
+<summary><b>📊 GitHub Statistics</b></summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhix201&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhix201&theme=tokyonight" alt="GitHub Streak" height="170px" />
+</div>
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhix201&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-<!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhix201&theme=tokyonight&row=1&column=6" alt="Trophies" />
+</div>
+</details>
 
-<!--🍷WINEEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30">
+<details>
+<summary><b>📈 Activity Graph</b></summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix201&theme=react-dark" width="100%">
+</div>
+</details>
 
+<details>
+<summary><b>🐍 Contribution Snake</b></summary>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhix201/abhix201/snake/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+</details>
 
-<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia">
+## 📫 Connect With Me
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhijeetgupta0120/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abhijeetgupta0120@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.codechef.com/users/abhijeet_x201"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.hackerrank.com/abhix201"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.leetcode.com/abhix201"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</div>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix201&theme=react-dark" width="100%">
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/abhix201/abhix201/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
-<p align="center">
-<a href="https://abhix201.wrapped.run"><b>My GitHub Wrapped</b></a>
-
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhix201&show_icons=true&theme=blue-green">
-
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://streak-stats.demolab.com?user=abhix201&theme=blue-green">
-
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhix201&layout=compact&theme=blue-green">
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
