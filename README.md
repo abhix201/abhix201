@@ -1,79 +1,119 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Gupta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhix201&label=Profile%20views&color=0e75b6&style=flat" alt="abhix201" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Abhijeet+Gupta;Competitive+Programmer;Cloud+%26+.NET+Enthusiast" alt="Typing SVG" />
+</div>
 
-- 👋 Hello there! I'm Abhijeet Gupta, a passionate competitive programmer with a keen interest in cloud and .NET technologies.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhix201&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="abhix201" />
+</div>
 
-- 💡 With a knack for problem-solving and a competitive edge, I thrive in the world of coding challenges. Whether it's algorithmic puzzles or complex coding competitions, I love the thrill of cracking the code and finding elegant solutions.
+<br/>
 
-- ☁️ My curiosity extends beyond algorithms and data structures to the cloud. I'm excited by the limitless potential that cloud technologies offer, and I'm eager to explore how they can reshape our digital landscape. From infrastructure as code to scalable applications, I'm ready to dive into the possibilities.
-
-- 💻 My journey has also led me to delve into the dynamic realm of .NET technologies. The versatility and power of the .NET ecosystem never cease to amaze me. From crafting efficient web applications to robust software solutions, I'm continuously honing my skills in this exciting domain.
-
-- 📈 Let's connect and share insights on competitive programming, cloud innovations, and .NET advancements. Whether it's discussing algorithms, exploring cloud architecture, or brainstorming .NET projects, I'm always up for a stimulating conversation.
-
-- 📫 How to reach me **abhijeetgupta0120@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abhijeetgupta0120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeetgupta0120" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhijeet_x201" target="blank"><img align="center" src="https://img.icons8.com/color/144/000000/codechef.png" alt="abhijeet_x201" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhix201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhix201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhix201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhix201" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhix201&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" alt="abhix201" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+## 💫 About Me
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
+- 🧠 **Problem Solver**: I thrive on algorithmic challenges and competitive programming
+  
+- ☁️ **Cloud Explorer**: Fascinated by cloud architecture and infrastructure-as-code
+
+- 🌐 **.NET Developer**: Building robust applications with the .NET ecosystem
+  
+- 🚀 **Always Learning**: Constantly exploring new technologies and approaches
+
+- 💼 **Open to Collaboration**: Interested in projects that challenge my skills
+  
+- 📫 **Reach me**: abhijeetgupta0120@gmail.com
+
+## 🌐 Connect With Me
+
 <p align="center">
-<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
+  <a href="https://www.linkedin.com/in/abhijeetgupta0120/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/abhix201" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/abhix201" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.codechef.com/users/abhijeet_x201" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="mailto:abhijeetgupta0120@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-<!--🍷WINEEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+## 💻 Tech Stack
+
 <p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,bootstrap,nodejs,mysql,mongodb,git,azure,dotnet,vscode&perline=7" />
+</p>
 
+<details>
+<summary>📈 More Skills</summary>
+<br>
 
-<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia">
+### Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix201&theme=react-dark" width="100%">
+### DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</details>
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+---
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quotes" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhix201&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhix201&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhix201&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="60%" />
+</div>
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix201&theme=tokyo-night&hide_border=true" width="100%">
+
+## 🐍 Contribution Snake
+
 <img src="https://raw.githubusercontent.com/abhix201/abhix201/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+  <a href="https://abhix201.wrapped.run"><img src="https://img.shields.io/badge/My%20GitHub%20Wrapped-2023-7209B7?style=for-the-badge&logo=github" alt="GitHub Wrapped" /></a>
+</div>
 
-<!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
-<p align="center">
-<a href="https://abhix201.wrapped.run"><b>My GitHub Wrapped</b></a>
+---
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhix201&show_icons=true&theme=blue-green">
-
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://streak-stats.demolab.com?user=abhix201&theme=blue-green">
-
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhix201&layout=compact&theme=blue-green">
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
