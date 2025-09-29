@@ -97,7 +97,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhix201&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhix201&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="40%" />
 </div>
 
 ## 📈 Contribution Graph
