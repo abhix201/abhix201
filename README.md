@@ -108,10 +108,6 @@
 
 <img src="https://raw.githubusercontent.com/abhix201/abhix201/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
-<div align="center">
-  <a href="https://abhix201.wrapped.run"><img src="https://img.shields.io/badge/My%20GitHub%20Wrapped-2023-7209B7?style=for-the-badge&logo=github" alt="GitHub Wrapped" /></a>
-</div>
-
 ---
 
 <div align="center">
